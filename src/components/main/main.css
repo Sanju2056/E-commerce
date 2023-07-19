@@ -1,0 +1,19 @@
+.main-row{
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0 -8px;
+}
+.main-col{
+  padding: 0 8px;
+}
+
+.main-col-left{
+  /* flex: 0 0 21%; */
+  /* background-color: red; */
+  /* max-width: 21%; */
+}
+.main-col-right{
+  flex: 0 0 79%;
+  max-width: 79%;
+  margin-left: 450px;
+}

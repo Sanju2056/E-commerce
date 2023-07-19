@@ -1,0 +1,19 @@
+.main-slider-1 {
+    height: 400px;
+    width: 85%;
+    margin-left: 17px;
+    /* background-color: aqua; */
+    padding-top: 20px;
+    font-size: 16px;
+    font-weight: lighter;
+    word-spacing: 3px;
+}
+.main-slider-1-heading {
+    font-size: 18px;
+    font-weight: 600;
+}
+.slider-image {
+    height: 200px;
+    width: 100%;
+    padding-top: 20px;
+}

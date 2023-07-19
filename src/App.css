@@ -1,0 +1,42 @@
+.Category{
+background-color: #7ad03a;
+height: 40px;
+width: 200px;
+border-radius: 5px;
+display: flex;
+color: white;
+font-size: 18px;
+}
+.Option{
+    height: 240px;
+    width: 200px;
+    background-color: blue;
+    margin-top: 10px;
+    border-radius: 5px;
+}
+.Option1{
+    height: 40px;
+    width: 100%;
+    border-right: none;
+    border-left: none;
+    border-top: none;
+    padding-top: 10px;
+    /* padding-left: 10px; */
+    font-size: 14px;
+    font-weight: lighter;
+    background-color: blueviolet;
+}
+.font{
+    font-size: 25px;
+    margin-top: 7px;
+    margin-right: 10px;
+    margin-left: 7px;
+}
+.titles{
+    margin-right: 50px;
+    margin-top: 8px;
+}
+.font1{
+    font-size:18px ;
+    margin-top: 10px;
+}

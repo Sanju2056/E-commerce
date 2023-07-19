@@ -1,0 +1,25 @@
+*{
+  box-sizing: border-box;
+}
+body {
+  font-family: 'Roboto', sans-serif;
+  color: #1c1d1e;
+  margin: 0;
+  overflow-x: hidden;
+  background-color: #f4f7f9;
+}
+.container{
+  max-width: 1210px;
+  padding: 0 15px;
+  margin: 0 auto;
+}
+figure{
+  margin: 0 0 1rem;
+}
+h1,h2,h3,h4,h5,h6,p{
+  margin: 0 0 1rem;
+}
+
+
+
+

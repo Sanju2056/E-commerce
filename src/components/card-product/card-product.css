@@ -1,0 +1,29 @@
+.card-product{
+  display: flex;
+  align-items: center;
+  font-size: 13px;
+  max-width: 210px;
+  margin-bottom: .5rem;
+}
+.card-product__figure{
+  margin: 0;
+}
+.card-product__figure img{
+  width: 84px;
+  height: 84px;
+}
+.card-product__content{
+  padding: 0 10px;
+}
+.card-product__content .item-link {
+  display: inline-block;
+  color: #1d1c1c;
+  text-decoration: none;
+  line-height: 21px;
+  margin-bottom: .1rem;
+}
+.card-product__content .price {
+  display: block;
+  color: #5fd300;
+  margin-bottom: .5rem;
+}
